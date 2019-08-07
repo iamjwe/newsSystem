@@ -3,10 +3,10 @@
 2.导入sql文件夹下的newsdb.sql文件至数据库中
 
 如何运行后端？
-0.安装pymysql：pip install pymysql
-1.复制backend文件夹到任意项目的一级目录下
-2.打开config文件夹，设置本地数据库的用户密码
-3.运行main_service文件，启动服务器
+1.安装pymysql：pip install pymysql
+2.复制backend文件夹到任意项目的一级目录下
+3.打开config文件夹，设置本地数据库的用户密码
+4.运行main_service文件，启动服务器
 
 如何运行前端？
 1.复制frontend文件夹到任意项目的一级目录下
